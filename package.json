@@ -49,6 +49,9 @@
       "prerelease": "npm run build"
     }
   },
+  "precommit": [
+    "build"
+  ],
   "dependencies": {
     "apexcharts": "^3.10.1"
   }
