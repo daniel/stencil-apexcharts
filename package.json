@@ -48,5 +48,8 @@
     "scripts": {
       "prerelease": "npm run build"
     }
+  },
+  "dependencies": {
+    "apexcharts": "^3.10.1"
   }
 }
